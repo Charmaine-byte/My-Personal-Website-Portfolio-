@@ -1,11 +1,12 @@
 body {
+  background-color: #F08080;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /* Navigation Bar */
 
 #home {
-  background-color:  #7600bc;
+  background-color:  #8A2BE2;
   padding-bottom: 1cm;
   margin-left:-1cm;
   margin-right:-1cm;
@@ -16,7 +17,7 @@ body {
  }
 
 .topmenu {
-  color: lightgray;
+  color: #000000;
   margin: 10px;
   padding: 20px;
   font-size: 20px;
@@ -24,7 +25,7 @@ body {
 }
 
 .topmenu:hover {
-  color: white;
+  color: #4b0082;
   font-weight: bolder;
   text-decoration: underline;
 }
@@ -37,7 +38,7 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  color: #ff1493;
+  color: #000000;
 }
 
 .profile_name .contact_info {
@@ -105,7 +106,7 @@ h2 {
 }
 
 .profile_image {
-  width: 550px;
+  width: 300px;
   height: fit-content;
   vertical-align: middle;
   margin: 5px;
